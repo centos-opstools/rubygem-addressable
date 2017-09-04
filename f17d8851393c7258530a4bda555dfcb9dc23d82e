@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a890539_88545d55",
+        "filename": "rubygem-addressable.spec",
+        "patchSetId": 4
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 313
+      },
+      "writtenOn": "2017-09-04T15:05:36Z",
+      "side": 1,
+      "message": "The release might be 3. There is a broken built package 2.3.8.2",
+      "range": {
+        "startLine": 7,
+        "startChar": 9,
+        "endLine": 7,
+        "endChar": 10
+      },
+      "revId": "f17d8851393c7258530a4bda555dfcb9dc23d82e",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
