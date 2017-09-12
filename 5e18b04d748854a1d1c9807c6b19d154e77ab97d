@@ -1,0 +1,9 @@
+Code-Review+2: Juan Badia Payno <jbadiapa@redhat.com>
+Code-Review+2: Lars Kellogg-Stedman <lars@redhat.com>
+Workflow+1: Lars Kellogg-Stedman <lars@redhat.com>
+Verified+2: Jenkins CI <admin@rpmfactory.beta.rdoproject.org>
+Submitted-by: Jenkins CI <admin@rpmfactory.beta.rdoproject.org>
+Submitted-at: Tue, 12 Sep 2017 16:37:47 +0000
+Reviewed-on: https://review.rdoproject.org/r/8742
+Project: centos-opstools/rubygem-addressable
+Branch: refs/heads/master
