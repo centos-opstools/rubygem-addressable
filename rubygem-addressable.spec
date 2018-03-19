@@ -4,7 +4,7 @@
 Summary: Improved URI/URL Implementation
 Name: rubygem-%{gem_name}
 Version: 2.3.8
-Release: 3%{?dist}
+Release: 4%{?dist}
 Group: Development/Languages
 License: ASL 2.0
 URL: http://addressable.rubyforge.org/
@@ -92,6 +92,9 @@ popd
 %{gem_docdir}
 
 %changelog
+* Mon Mar 19 2018 Matthias Runge <mrunge@redhat.com> - 2.3.8-4
+- Bump NVR to enable additional arches
+
 * Wed Aug 23 2017 Matthias Runge <mrunge@redhat.com> - 2.3.8-3
 - initial submit for CentOS opstools and package update
 
